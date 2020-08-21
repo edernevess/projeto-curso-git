@@ -1,0 +1,18 @@
+
+* {
+margin: 0;
+padding: 0;
+}
+
+body {
+font-family: 'Fira Sans', sans-serif;
+
+color: #AAABB8;
+}
+
+div {
+background-color: #25274D;
+margin: 8px;
+padding: 10px;
+border-radius: .25rem;
+}
